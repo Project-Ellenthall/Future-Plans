@@ -1,0 +1,22 @@
+1. Create the base factions
+  a. Wyndrake Rebellion (Human)
+  b. Orizyum Dwarves
+  c. Bollindur Orcs
+    1. Orcs may have to be skipped until meshes can be edited
+  d. Sethorn Elves
+All of this can be done by editing .xml
+  
+2. Create Lords for the factions
+  a. Create clans for new factions
+  
+3. Setup proper AI for lords / cultures
+  a. Diplomacy
+  b. Travel
+  c. Locations
+  c. Etc
+  
+4. Create unique Items/Weapons/Armor for new units
+
+5. Overwrite current cultures with new cultures
+
+6. Setup Minor Factions & Lords
