@@ -1,9 +1,21 @@
+Features - 
+  8 Custom Culture / Kingdoms
+  8 Minor Factions
+  Random Boss Hordes
+  Knighthoods
+  Custom Races for character creation
+    Elf, Orc, Dwarf
+  Custom Items
+  
+
+
 1. Create the base factions
   a. Wyndrake Rebellion (Human)
   b. Orizyum Dwarves
   c. Bollindur Orcs
     1. Orcs may have to be skipped until meshes can be edited
   d. Sethorn Elves
+  e. Kelborn Elves
 All of this can be done by editing .xml
   
 2. Create Lords for the factions
